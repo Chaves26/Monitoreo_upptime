@@ -7,10 +7,14 @@ sites:
     url: https://www.google.com
   - name: Muni.cr
     url: https://www.munis.cr
+  - name: La Cruz
+    url: https://lacruz.munis.cr/usuario/login
+  - name: Carrillo
+    url: https://carrillo.munis.cr/usuario/login
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Abangares
+    url: https://abangares.munis.cr/usuario/login
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
     
