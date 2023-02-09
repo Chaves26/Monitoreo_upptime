@@ -11,12 +11,9 @@ sites:
     url: https://lacruz.munis.cr/usuario/login
   - name: Carrillo
     url: https://carrillo.munis.cr/usuario/login
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: Abangares
     url: https://abangares.munis.cr/usuario/login
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+
     
 assignees:
   - chaves26
