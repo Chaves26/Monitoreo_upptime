@@ -9,8 +9,8 @@ sites:
     url: https://lacruz.munis.cr/usuario/login
   - name: Carrillo
     url: https://carrillo.munis.cr/usuario/login
-  - name: Abangares
-    url: https://abangares.munis.cr/usuario/login
+  - name: Ubuntu
+    url: https://ubuntu.com/download/server
 
     
 assignees:
