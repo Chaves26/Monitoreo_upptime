@@ -22,9 +22,9 @@
     "url": "https://lacruz.munis.cr/usuario/login",
     "icon": "https://icons.duckduckgo.com/ip3/lacruz.munis.cr.ico",
     "slug": "la-cruz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 301,
     "timeMonth": 265,
     "timeYear": 265,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-21": 0
+    }
   },
   {
     "name": "Carrillo",
