@@ -40,18 +40,20 @@
     "url": "https://carrillo.munis.cr/usuario/login",
     "icon": "https://icons.duckduckgo.com/ip3/carrillo.munis.cr.ico",
     "slug": "carrillo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 420,
     "timeDay": 309,
-    "timeWeek": 257,
+    "timeWeek": 266,
     "timeMonth": 420,
     "timeYear": 420,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-27": 0
+    }
   },
   {
     "name": "Ubuntu",
