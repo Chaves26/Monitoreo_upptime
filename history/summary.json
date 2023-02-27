@@ -40,19 +40,19 @@
     "url": "https://carrillo.munis.cr/usuario/login",
     "icon": "https://icons.duckduckgo.com/ip3/carrillo.munis.cr.ico",
     "slug": "carrillo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 420,
-    "timeDay": 309,
-    "timeWeek": 266,
-    "timeMonth": 420,
-    "timeYear": 420,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
+    "time": 416,
+    "timeDay": 311,
+    "timeWeek": 271,
+    "timeMonth": 416,
+    "timeYear": 416,
     "dailyMinutesDown": {
-      "2023-02-27": 0
+      "2023-02-27": 13
     }
   },
   {
